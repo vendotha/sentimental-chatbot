@@ -105,9 +105,6 @@ We welcome contributions! Fork this repository, create a feature branch, and sub
 
 ---
 
-## License
-
-This project is distributed under the MIT License. For details, refer to the `LICENSE` file.
 
 ---
 
